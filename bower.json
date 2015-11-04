@@ -1,0 +1,39 @@
+{
+  "name": "app-activity-router",
+  "version": "1.0.3",
+  "authors": [
+    "Marco Magnetti"
+  ],
+  "description": "Url based activity manager",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed",
+    "app",
+    "router",
+    "activity"
+  ],
+  "main": "app-activity-router.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/marcomag89/app-activity-router/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0",
+    "paper-spinner": "PolymerElements/paper-spinner#~1.0.4",
+    "iron-pages": "PolymerElements/iron-pages#~1.0.3",
+    "page": "visionmedia/page.js#~1.6.4"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "moduleType": []
+}
